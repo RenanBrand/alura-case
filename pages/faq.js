@@ -1,5 +1,3 @@
-import Link from "../src/components/Link";
-import PageTitle from "./pageTitle";
 import FAQScreen from '../src/components/screens/FAQScreen/index';
 
 export default FAQScreen; 
